@@ -1,2 +1,6 @@
 # hello-world
-This is the test repository created to check the processes
+Hi World!!
+
+Vishal here. Was thinking of trying something new.
+Git came to my mind so though to try it out and refresh my memory
+on how this works
